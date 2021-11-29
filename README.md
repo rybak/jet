@@ -15,8 +15,7 @@ Jet is a structural editor for JSON.
 I.e. an editor which is aware of the *structure* of JSON and allows you to manipulate it directly.
 The document is _always_ in a valid state.
 
-https://user-images.githubusercontent.com/6439644/143655548-3c556ea8-7673-4439-8624-15b4b503001f.mov
-
+![[Video demo](docs/structural-json.mp4)](docs/structural-json.mp4)
 
 # Features
 
